@@ -6,8 +6,5 @@ export default defineConfig({
   plugins: [react()],
   build: {
     outDir: 'dist'  // build çıktılarının kaydedileceği klasör
-  },
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
+  }
 })
