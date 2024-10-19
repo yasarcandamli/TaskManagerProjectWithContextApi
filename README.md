@@ -4,8 +4,6 @@ Bu proje, kullanıcıların görev oluşturmasına, güncellemesine ve silmesine
 
 Daha önce yapmış olduğum Task Manager projesinin context api ile entegre edilmiş halidir.
 
-Bu linki kullanarak ziyaret edebilirsiniz:
-
 ## Özellikler
 
 - Görev oluşturma
